@@ -1,0 +1,95 @@
+[
+  {
+    "_id_keymap": 1,
+    "id_section": 1,
+    "id_context": 1,
+    "code_win": "Alt + #[0-9]",
+    "code_apple": "⌘0 ... ⌘9",
+    "name_en": "Open corresponding tool window",
+    "description_en": "Open corresponding tool window"
+  },
+  {
+    "_id_keymap": 2,
+    "id_section": 1,
+    "id_context": 1,
+    "code_win": "Ctrl + S",
+    "code_apple": "⌘S",
+    "name_en": "Save all",
+    "description_en": "Save all"
+  },
+  {
+    "_id_keymap": 3,
+    "id_section": 1,
+    "id_context": 1,
+    "code_win": "Ctrl + Alt + Y",
+    "code_apple": "⌘\\-Y",
+    "name_en": "Synchronize",
+    "description_en": "Synchronize"
+  },
+  {
+    "_id_keymap": 4,
+    "id_section": 1,
+    "id_context": 1,
+    "code_win": "Ctrl + Shift + F12",
+    "code_apple": "⌘ + Shift + F12",
+    "name_en": "Toggle maximizing editor",
+    "description_en": "Toggle maximizing editor"
+  },
+  {
+    "_id_keymap": 5,
+    "id_section": 1,
+    "id_context": 1,
+    "code_win": "Alt + Shift + I",
+    "code_apple": "⌘\\-Y",
+    "name_en": "Inspect current file with current profile",
+    "description_en": "Inspect current file with current profile"
+  },
+  {
+    "_id_keymap": 6,
+    "id_section": 1,
+    "id_context": 1,
+    "code_win": "Alt + Shift + I",
+    "code_apple": "⌘\\-Y",
+    "name_en": "Quick switch current scheme Ctrl + BackQuote (`)",
+    "description_en": "Quick switch current scheme Ctrl + BackQuote (`)"
+  },
+  {
+    "_id_keymap": 7,
+    "id_section": 1,
+    "id_context": 1,
+    "code_win": "Ctrl + Alt + S",
+    "code_apple": "⌘\\-Y",
+    "name_en": "Open Settings dialog",
+    "description_en": "Open Settings dialog"
+  },
+  {
+    "_id_keymap": 8,
+    "id_section": 1,
+    "id_context": 1,
+    "code_win": "Ctrl + Alt + Shift + S",
+    "code_apple": "⌘\\-Y",
+    "name_en": "Open Project Structure dialog",
+    "description_en": "Open Project Structure dialog"
+  },
+  {
+    "_id_keymap": 9,
+    "id_section": 1,
+    "id_context": 1,
+    "code_win": "Ctrl + Shift + A",
+    "code_apple": "⌘\\-Y",
+    "name_en": "Find Action",
+    "description_en": "Find Action"
+  }
+]
+
+
+//ALT - You can easily make column selection by dragging your mouse pointer while keeping the Alt key pressed.
+//Ctrl+Shift+N + You can jump directly to any deeply buried file, if you press Ctrl+Shift+N, and type just a couple of characters of the enclosing directories and file names:
+
+
+
+//  Find Action Ctrl + Shift + A
+
+
+
+//Use the Switcher (Ctrl+Tab) to switch between open files and tool windows. Keeping Ctrl pressed, use the Up and Down arrow keys, Tab or Shift+Tab, Alt for navigation; use Delete or BackSpace to close editor tab or hide a tool window.

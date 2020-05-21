@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KeymapsReference</string>
+    <string name="textViewTitleMainActivity">Справочник по горячим клавишам</string>
+    <string name="buttonReference">Справочник</string>
+</resources>
